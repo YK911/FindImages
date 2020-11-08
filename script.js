@@ -7,7 +7,7 @@ const tagList = {
   image: document.querySelector(".lightbox__image")
 };
 
-// state imitation (saves current page and query)
+// state imitation
 const state = {
   query: 'all',
   page: 1,
